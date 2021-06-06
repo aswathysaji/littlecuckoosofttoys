@@ -38,7 +38,7 @@ html{
 #hero {
     width: 100%;
     height: 100vh;
-    background: url("/assets/img/6.jpg")center;
+    background: url("/assets/img/4.JPG")center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -2833,7 +2833,7 @@ input:focus {
     }
 }
 .slider-height2 {
-    background-image: url(/assets1/img/about_hero.png);
+    background-image: url(/assets1/img/about_hero.PNG);
     min-height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
