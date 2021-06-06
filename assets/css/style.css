@@ -2833,7 +2833,7 @@ input:focus {
     }
 }
 .slider-height2 {
-    background-image: url(/assets1/img/about_hero.PNG);
+    background-image: url("../img/about_hero.png");
     min-height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
